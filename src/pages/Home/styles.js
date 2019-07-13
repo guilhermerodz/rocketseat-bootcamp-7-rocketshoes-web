@@ -2,9 +2,18 @@ import styled from 'styled-components';
 import { darken } from 'polished';
 
 export const ProductList = styled.ul`
+  /*
+  Old
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 20px;
+  grid-gap: 20px; */
+
+  /*
+    Responsive
+    */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   list-style: none;
 
   li {
@@ -13,6 +22,19 @@ export const ProductList = styled.ul`
     background: #fff;
     border-radius: 4px;
     padding: 20px;
+
+    /*
+    Responsive
+    */
+    margin: 10px;
+    width: calc(33.33% - 20px);
+
+    @media (max-width: 950px) {
+      width: calc(50% - 20px);
+    }
+    @media (max-width: 650px) {
+      width: calc(100% - 20px);
+    }
 
     img {
       align-self: center;
