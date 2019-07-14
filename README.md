@@ -2,6 +2,8 @@
 
 **React Web App** using **Redux**, **Styled Components** and **Axios**.
 
+[Live Demo](https://guilhermerodz-rocketshoes.netlify.com/)
+
 This App serves like a **virtual store**. It can handle **API requests** while trying to **add some product** to cart, **e.g checking the available stock before adding an item in the cart**.
 
 **Redux** for handling **global states** and **user actions**.
