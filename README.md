@@ -7,7 +7,7 @@ This App serves like a **virtual store**. It can handle **API requests** while t
 **Redux** for handling **global states** and **user actions**.
 **Axios** for **sending requests to the fake API**.
 
-The fake API can be started by entering `npm server`.
+Just run `npm start` in your terminal and browse `localhost:3000`.
 
 ## Challenge Result
 
