@@ -13,12 +13,12 @@ Just run `npm start` in your terminal and browse `localhost:3000`.
 
 ## Challenge Result
 
-![Main Screen](assets/main-screen.png)
+<img alt="Main Screen" src="assets/main-screen.jpeg" height="400px" />
 
-![Cart Screen](assets/cart-screen.png)
+<img alt="Cart Screen" src="assets/cart-screen.jpeg" height="400px" />
 
 ### Responsiveness
 
-![Main Screen 2x](assets/responsive-2x.png)
+<img alt="Main Screen" src="assets/responsive-2x.png" height="400px" />
 
-![Main Screen 1x](assets/responsive-1x.png)
+<img alt="Main Screen" src="assets/responsive-1x.png" height="400px" />
