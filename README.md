@@ -13,9 +13,9 @@ Just run `npm start` in your terminal and browse `localhost:3000`.
 
 ## Challenge Result
 
-<img alt="Main Screen" src="assets/main-screen.jpeg" height="400px" />
+<img alt="Main Screen" src="assets/main-screen.png" height="400px" />
 
-<img alt="Cart Screen" src="assets/cart-screen.jpeg" height="400px" />
+<img alt="Cart Screen" src="assets/cart-screen.png" height="400px" />
 
 ### Responsiveness
 
